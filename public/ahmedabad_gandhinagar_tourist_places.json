@@ -1613,7 +1613,7 @@
           "history": "The park is managed by the Gujarat Ecological Education and Research Foundation (GEER).",
           "highlights": [],
           "how_to_reach": "Use the Directions link to check current road and public transport routes.",
-          "best_time_to_visit": null,
+          "best_time_to_visit": "Typically open 8:00 AM to 6:00 PM (closed on Mondays per standard listings; verify with the park before visiting)",
           "visitor_tips": null
         },
         "gu": {
@@ -1622,7 +1622,7 @@
           "history": "આ પાર્કનું સંચાલન ગુજરાત ઇકોલોજિકલ એજ્યુકેશન એન્ડ રિસર્ચ ફાઉન્ડેશન (GEER) કરે છે.",
           "highlights": [],
           "how_to_reach": "હાલનો રોડ અને જાહેર પરિવહન માર્ગ જોવા Directions લિંક વાપરો.",
-          "best_time_to_visit": null,
+          "best_time_to_visit": "સામાન્ય રીતે સવારે 8:00 થી સાંજે 6:00 વાગ્યા સુધી ખુલ્લું રહે છે (માનક સૂચિઓ મુજબ સોમવારે બંધ રહે છે; મુલાકાત લેતા પહેલા પાર્ક સાથે ચકાસણી કરો)",
           "visitor_tips": null
         },
         "hi": {
@@ -1631,7 +1631,7 @@
           "history": "इस पार्क का संचालन गुजरात इकोलॉजिकल एजुकेशन एंड रिसर्च फाउंडेशन (GEER) करता है।",
           "highlights": [],
           "how_to_reach": "वर्तमान सड़क और सार्वजनिक परिवहन मार्ग देखने के लिए Directions लिंक उपयोग करें।",
-          "best_time_to_visit": null,
+          "best_time_to_visit": "आम तौर पर सुबह 8:00 बजे से शाम 6:00 बजे तक खुला रहता है (मानक सूचियों के अनुसार सोमवार को बंद रहता है; यात्रा करने से पहले पार्क से पुष्टि कर लें)।",
           "visitor_tips": null
         }
       },
@@ -1644,13 +1644,13 @@
       },
       "photos": {
         "cover_photo_url": "https://cdn.s3waas.gov.in/s355b37c5c270e5d84c793e486d798c01d/uploads/2018/10/2018101753-1024x576.jpg",
-        "gallery": [],
+        "gallery": ["https://cdn.s3waas.gov.in/s355b37c5c270e5d84c793e486d798c01d/uploads/2018/10/2018101764-1024x768.jpg","https://cdn.s3waas.gov.in/s355b37c5c270e5d84c793e486d798c01d/uploads/2018/10/2018101799-1024x768.jpg","https://cdn.s3waas.gov.in/s355b37c5c270e5d84c793e486d798c01d/uploads/2018/10/2018101764-1-1024x768.jpg"],
         "image_credit": null
       },
       "visitor_info": {
-        "opening_time": null,
-        "closing_time": null,
-        "weekly_closed_days": [],
+        "opening_time": "8:00 AM",
+        "closing_time": "6:00 PM",
+        "weekly_closed_days": ["Mondays/सोमवार/સોમવારે"],
         "entry_fee": {
           "currency": "INR",
           "adult": null,
@@ -1658,7 +1658,7 @@
           "is_free": null
         },
         "approx_visit_duration_minutes": null,
-        "contact_phone": null,
+        "contact_phone": "02712-21385, (Park)-20560",
         "official_website": null,
         "ticket_booking_url": null,
         "last_verified_on": null
@@ -1670,18 +1670,54 @@
         "wheelchair_accessible": null,
         "food_available": null
       },
-      "nearby": {
-        "metro": [],
-        "brts": [],
-        "bus": [],
-        "railway": [],
-        "airport": [],
-        "hotel": [],
-        "restaurant": [],
-        "atm": [],
-        "shops": [],
-        "hospital": []
-      },
+     "nearby": {
+    "metro": [
+      "Infocity Metro Station (Ahmedabad Metro Yellow Line) - ~1.0 km",
+      "Dholakuva Circle Metro Station (Ahmedabad Metro Yellow Line) - ~2.4 km",
+      "Sector-1 Metro Station (Ahmedabad Metro Yellow Line) - ~2.5 km"
+    ],
+    "brts": [
+      "No direct BRTS network in Gandhinagar (nearest Ahmedabad BRTS corridors terminate at Visat Junction / Motera - ~13.0 km)"
+    ],
+    "bus": [
+      "CH 0 Bus Stop (Indroda Circle) - ~0.8 km",
+      "Gandhinagar City Bus Stand (Sector 6) - ~4.0 km",
+      "GSRTC Central Bus Station (Sector 11, Gandhinagar) - ~5.5 km",
+      "Gujarat state transport buses (GSRTC) and private operators (available at CH 0 / Dholakuva stop - ~0.8 to 2.0 km)"
+    ],
+    "railway": [
+      "Gandhinagar Capital Railway Station (GNC - Sector 14) - ~6.8 km",
+      "Ahmedabad Junction (Kalupur - ADI) - ~21.8 km"
+    ],
+    "airport": [
+      "Sardar Vallabhbhai Patel International Airport (AMD), Ahmedabad - ~14.9 km"
+    ],
+    "hotel": [
+      "Hotel Hill Look Inn (Randesan) - ~3.2 km",
+      "Hotel German Gandhinagar (Kudasan) - ~3.5 km",
+      "Hotel Royal Wing (Kudasan) - ~3.8 km"
+    ],
+    "restaurant": [
+      "Mocha Gandhinagar (Infocity Club & Resort, near Indroda Circle) - ~0.4 km",
+      "Sankalp Restaurant (Infocity) - ~0.6 km",
+      "Kansar Garden Restaurant (Kudasan) - ~3.2 km"
+    ],
+    "atm": [
+      "Multiple bank ATMs at Super Mall 1 (Infocity Circle) - ~1.2 km",
+      "State Bank of India (SBI) ATM (Sector 8) - ~3.0 km",
+      "State Bank of India (SBI) ATM (Sargasan) - ~3.5 km"
+    ],
+    "shops": [
+      "Super Mall 1 (Infocity Circle) - ~1.2 km",
+      "Pramukh Anand Mall (Kudasan) - ~3.2 km",
+      "Swagat Holiday Mall (Sargasan) - ~3.6 km"
+    ],
+    "hospital": [
+      "SMVS Swaminarayan Hospital (Randesan) - ~3.5 km",
+      "Pagarav Hospital and ICU (Sargasan) - ~4.2 km",
+      "Bhavani Multispeciality Hospital (Vavol) - ~6.5 km"
+    ]
+  },
       "source_urls": [
         "https://gandhinagar.nic.in/tourist-place/indroda-dinosaur-and-fossil-park/"
       ],
