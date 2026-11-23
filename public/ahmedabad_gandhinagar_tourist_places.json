@@ -1547,7 +1547,12 @@
       },
       "photos": {
         "cover_photo_url": "https://gujarattourism.com/content/dam/gujrattourism/images/religious-sites/akshardham-temple/Akshardham-Temple-Banner.jpg",
-        "gallery": ["https://gujarattourism.com/content/dam/gujrattourism/images/religious-sites/akshardham-temple/Akshardham-Temple-Banner.jpg","https://gujarattourism.com/content/dam/gujrattourism/images/religious-sites/akshardham-temple/gallery/Akshardham-Temple6.jpg","https://gujarattourism.com/content/dam/gujrattourism/images/religious-sites/akshardham-temple/gallery/Akshardham-Temple9.jpg","https://gujarattourism.com/content/dam/gujrattourism/images/religious-sites/akshardham-temple/gallery/Akshardham-Temple10.jpg"],
+        "gallery": [
+          "https://gujarattourism.com/content/dam/gujrattourism/images/religious-sites/akshardham-temple/Akshardham-Temple-Banner.jpg",
+          "https://gujarattourism.com/content/dam/gujrattourism/images/religious-sites/akshardham-temple/gallery/Akshardham-Temple6.jpg",
+          "https://gujarattourism.com/content/dam/gujrattourism/images/religious-sites/akshardham-temple/gallery/Akshardham-Temple9.jpg",
+          "https://gujarattourism.com/content/dam/gujrattourism/images/religious-sites/akshardham-temple/gallery/Akshardham-Temple10.jpg"
+        ],
         "image_credit": null
       },
       "visitor_info": {
@@ -1640,21 +1645,32 @@
         "latitude": null,
         "longitude": null,
         "google_maps_url": "https://www.google.com/maps/search/?api=1&query=Indroda%20Nature%20Park%2C%20Indroda%2C%20Gandhinagar%2C%20Gujarat%2C%20India",
-        "coordinates_verified": false
+        "coordinates_verified": false,
+        "address_translations": {
+          "en": "Indroda Nature Park, Indroda, Gandhinagar, Gujarat, India",
+          "gu": "ઇન્દ્રોડા નેચર પાર્ક, ઇન્દ્રોડા, ગાંધીનગર, ગુજરાત, ભારત",
+          "hi": "इंद्रोड़ा नेचर पार्क, इंद्रोड़ा, गांधीनगर, गुजरात, भारत"
+        }
       },
       "photos": {
         "cover_photo_url": "https://cdn.s3waas.gov.in/s355b37c5c270e5d84c793e486d798c01d/uploads/2018/10/2018101753-1024x576.jpg",
-        "gallery": ["https://cdn.s3waas.gov.in/s355b37c5c270e5d84c793e486d798c01d/uploads/2018/10/2018101764-1024x768.jpg","https://cdn.s3waas.gov.in/s355b37c5c270e5d84c793e486d798c01d/uploads/2018/10/2018101799-1024x768.jpg","https://cdn.s3waas.gov.in/s355b37c5c270e5d84c793e486d798c01d/uploads/2018/10/2018101764-1-1024x768.jpg"],
+        "gallery": [
+          "https://cdn.s3waas.gov.in/s355b37c5c270e5d84c793e486d798c01d/uploads/2018/10/2018101764-1024x768.jpg",
+          "https://cdn.s3waas.gov.in/s355b37c5c270e5d84c793e486d798c01d/uploads/2018/10/2018101799-1024x768.jpg",
+          "https://cdn.s3waas.gov.in/s355b37c5c270e5d84c793e486d798c01d/uploads/2018/10/2018101764-1-1024x768.jpg"
+        ],
         "image_credit": null
       },
       "visitor_info": {
         "opening_time": "8:00 AM",
         "closing_time": "6:00 PM",
-        "weekly_closed_days": ["Mondays/सोमवार/સોમવારે"],
+        "weekly_closed_days": [
+          "Mondays/सोमवार/સોમવારે"
+        ],
         "entry_fee": {
           "currency": "INR",
-          "adult": null,
-          "child": null,
+          "adult": "₹30",
+          "child": "₹15",
           "is_free": null
         },
         "approx_visit_duration_minutes": null,
@@ -1664,66 +1680,164 @@
         "last_verified_on": null
       },
       "facilities": {
-        "parking": null,
-        "toilet": null,
-        "drinking_water": null,
+        "parking": "Yes",
+        "toilet": "Yes",
+        "drinking_water": "Yes",
         "wheelchair_accessible": null,
-        "food_available": null
+        "food_available": "Yes"
       },
-     "nearby": {
-    "metro": [
-      "Infocity Metro Station (Ahmedabad Metro Yellow Line) - ~1.0 km",
-      "Dholakuva Circle Metro Station (Ahmedabad Metro Yellow Line) - ~2.4 km",
-      "Sector-1 Metro Station (Ahmedabad Metro Yellow Line) - ~2.5 km"
-    ],
-    "brts": [
-      "No direct BRTS network in Gandhinagar (nearest Ahmedabad BRTS corridors terminate at Visat Junction / Motera - ~13.0 km)"
-    ],
-    "bus": [
-      "CH 0 Bus Stop (Indroda Circle) - ~0.8 km",
-      "Gandhinagar City Bus Stand (Sector 6) - ~4.0 km",
-      "GSRTC Central Bus Station (Sector 11, Gandhinagar) - ~5.5 km",
-      "Gujarat state transport buses (GSRTC) and private operators (available at CH 0 / Dholakuva stop - ~0.8 to 2.0 km)"
-    ],
-    "railway": [
-      "Gandhinagar Capital Railway Station (GNC - Sector 14) - ~6.8 km",
-      "Ahmedabad Junction (Kalupur - ADI) - ~21.8 km"
-    ],
-    "airport": [
-      "Sardar Vallabhbhai Patel International Airport (AMD), Ahmedabad - ~14.9 km"
-    ],
-    "hotel": [
-      "Hotel Hill Look Inn (Randesan) - ~3.2 km",
-      "Hotel German Gandhinagar (Kudasan) - ~3.5 km",
-      "Hotel Royal Wing (Kudasan) - ~3.8 km"
-    ],
-    "restaurant": [
-      "Mocha Gandhinagar (Infocity Club & Resort, near Indroda Circle) - ~0.4 km",
-      "Sankalp Restaurant (Infocity) - ~0.6 km",
-      "Kansar Garden Restaurant (Kudasan) - ~3.2 km"
-    ],
-    "atm": [
-      "Multiple bank ATMs at Super Mall 1 (Infocity Circle) - ~1.2 km",
-      "State Bank of India (SBI) ATM (Sector 8) - ~3.0 km",
-      "State Bank of India (SBI) ATM (Sargasan) - ~3.5 km"
-    ],
-    "shops": [
-      "Super Mall 1 (Infocity Circle) - ~1.2 km",
-      "Pramukh Anand Mall (Kudasan) - ~3.2 km",
-      "Swagat Holiday Mall (Sargasan) - ~3.6 km"
-    ],
-    "hospital": [
-      "SMVS Swaminarayan Hospital (Randesan) - ~3.5 km",
-      "Pagarav Hospital and ICU (Sargasan) - ~4.2 km",
-      "Bhavani Multispeciality Hospital (Vavol) - ~6.5 km"
-    ]
-  },
+      "nearby": {
+        "metro": [
+          "Infocity Metro Station (Ahmedabad Metro Yellow Line) - ~1.0 km",
+          "Dholakuva Circle Metro Station (Ahmedabad Metro Yellow Line) - ~2.4 km",
+          "Sector-1 Metro Station (Ahmedabad Metro Yellow Line) - ~2.5 km"
+        ],
+        "brts": [
+          "No direct BRTS network in Gandhinagar (nearest Ahmedabad BRTS corridors terminate at Visat Junction / Motera - ~13.0 km)"
+        ],
+        "bus": [
+          "CH 0 Bus Stop (Indroda Circle) - ~0.8 km",
+          "Gandhinagar City Bus Stand (Sector 6) - ~4.0 km",
+          "GSRTC Central Bus Station (Sector 11, Gandhinagar) - ~5.5 km",
+          "Gujarat state transport buses (GSRTC) and private operators (available at CH 0 / Dholakuva stop - ~0.8 to 2.0 km)"
+        ],
+        "railway": [
+          "Gandhinagar Capital Railway Station (GNC - Sector 14) - ~6.8 km",
+          "Ahmedabad Junction (Kalupur - ADI) - ~21.8 km"
+        ],
+        "airport": [
+          "Sardar Vallabhbhai Patel International Airport (AMD), Ahmedabad - ~14.9 km"
+        ],
+        "hotel": [
+          "Hotel Hill Look Inn (Randesan) - ~3.2 km",
+          "Hotel German Gandhinagar (Kudasan) - ~3.5 km",
+          "Hotel Royal Wing (Kudasan) - ~3.8 km"
+        ],
+        "restaurant": [
+          "Mocha Gandhinagar (Infocity Club & Resort, near Indroda Circle) - ~0.4 km",
+          "Sankalp Restaurant (Infocity) - ~0.6 km",
+          "Kansar Garden Restaurant (Kudasan) - ~3.2 km"
+        ],
+        "atm": [
+          "Multiple bank ATMs at Super Mall 1 (Infocity Circle) - ~1.2 km",
+          "State Bank of India (SBI) ATM (Sector 8) - ~3.0 km",
+          "State Bank of India (SBI) ATM (Sargasan) - ~3.5 km"
+        ],
+        "shops": [
+          "Super Mall 1 (Infocity Circle) - ~1.2 km",
+          "Pramukh Anand Mall (Kudasan) - ~3.2 km",
+          "Swagat Holiday Mall (Sargasan) - ~3.6 km"
+        ],
+        "hospital": [
+          "SMVS Swaminarayan Hospital (Randesan) - ~3.5 km",
+          "Pagarav Hospital and ICU (Sargasan) - ~4.2 km",
+          "Bhavani Multispeciality Hospital (Vavol) - ~6.5 km"
+        ]
+      },
       "source_urls": [
         "https://gandhinagar.nic.in/tourist-place/indroda-dinosaur-and-fossil-park/"
       ],
       "is_active": true,
       "is_featured": true,
-      "sort_order": 17
+      "sort_order": 17,
+      "nearby_translations": {
+        "gu": {
+          "metro": [
+            "ઇન્ફોસિટી મેટ્રો સ્ટેશન (અમદાવાદ મેટ્રો યેલો લાઇન) - ~1.0 km",
+            "ધોળાકુવા સર્કલ મેટ્રો સ્ટેશન (અમદાવાદ મેટ્રો યેલો લાઇન) - ~2.4 km",
+            "સેક્ટર-1 મેટ્રો સ્ટેશન (અમદાવાદ મેટ્રો યેલો લાઇન) - ~2.5 km"
+          ],
+          "brts": [
+            "ગાંધીનગરમાં સીધું BRTS નેટવર્ક નથી (નજીકના અમદાવાદ BRTS રૂટ વિસત જંક્શન / મોટેરા સુધી, અંદાજે ~13.0 km દૂર)"
+          ],
+          "bus": [
+            "CH 0 બસ સ્ટોપ (ઇન્દ્રોડા સર્કલ) - ~0.8 km",
+            "ગાંધીનગર સિટી બસ સ્ટેન્ડ (સેક્ટર 6) - ~4.0 km",
+            "GSRTC સેન્ટ્રલ બસ સ્ટેશન (સેક્ટર 11, ગાંધીનગર) - ~5.5 km",
+            "ગુજરાત રાજ્ય પરિવહન (GSRTC) અને ખાનગી બસો (CH 0 / ધોળાકુવા સ્ટોપ પર ઉપલબ્ધ; અંદાજે ~0.8 થી 2.0 km)"
+          ],
+          "railway": [
+            "ગાંધીનગર કેપિટલ રેલવે સ્ટેશન (GNC - સેક્ટર 14) - ~6.8 km",
+            "અમદાવાદ જંક્શન (કાલુપુર - ADI) - ~21.8 km"
+          ],
+          "airport": [
+            "સરદાર વલ્લભભાઈ પટેલ આંતરરાષ્ટ્રીય એરપોર્ટ (AMD), અમદાવાદ - ~14.9 km"
+          ],
+          "hotel": [
+            "હોટેલ હિલ લુક ઇન (રાંદેસણ) - ~3.2 km",
+            "હોટેલ જર્મન ગાંધીનગર (કુડાસણ) - ~3.5 km",
+            "હોટેલ રોયલ વિંગ (કુડાસણ) - ~3.8 km"
+          ],
+          "restaurant": [
+            "મોચા ગાંધીનગર (ઇન્ફોસિટી ક્લબ એન્ડ રિસોર્ટ, ઇન્દ્રોડા સર્કલ પાસે) - ~0.4 km",
+            "સંકલ્પ રેસ્ટોરન્ટ (ઇન્ફોસિટી) - ~0.6 km",
+            "કંસાર ગાર્ડન રેસ્ટોરન્ટ (કુડાસણ) - ~3.2 km"
+          ],
+          "atm": [
+            "સુપર મોલ 1 (ઇન્ફોસિટી સર્કલ) ખાતે વિવિધ બેંકોનાં ATM - ~1.2 km",
+            "સ્ટેટ બેંક ઓફ ઇન્ડિયા (SBI) ATM (સેક્ટર 8) - ~3.0 km",
+            "સ્ટેટ બેંક ઓફ ઇન્ડિયા (SBI) ATM (સરગાસણ) - ~3.5 km"
+          ],
+          "shops": [
+            "સુપર મોલ 1 (ઇન્ફોસિટી સર્કલ) - ~1.2 km",
+            "પ્રમુખ આનંદ મોલ (કુડાસણ) - ~3.2 km",
+            "સ્વાગત હોલિડે મોલ (સરગાસણ) - ~3.6 km"
+          ],
+          "hospital": [
+            "SMVS સ્વામિનારાયણ હોસ્પિટલ (રાંદેસણ) - ~3.5 km",
+            "પગરવ હોસ્પિટલ અને ICU (સરગાસણ) - ~4.2 km",
+            "ભવાની મલ્ટિસ્પેશિયાલિટી હોસ્પિટલ (વાવોલ) - ~6.5 km"
+          ]
+        },
+        "hi": {
+          "metro": [
+            "इन्फोसिटी मेट्रो स्टेशन (अहमदाबाद मेट्रो येलो लाइन) - ~1.0 km",
+            "धोलाकुवा सर्कल मेट्रो स्टेशन (अहमदाबाद मेट्रो येलो लाइन) - ~2.4 km",
+            "सेक्टर-1 मेट्रो स्टेशन (अहमदाबाद मेट्रो येलो लाइन) - ~2.5 km"
+          ],
+          "brts": [
+            "गांधीनगर में सीधे BRTS नेटवर्क की सुविधा नहीं है (निकटतम अहमदाबाद BRTS कॉरिडोर विसत जंक्शन / मोटेरा तक, लगभग ~13.0 km दूर)"
+          ],
+          "bus": [
+            "CH 0 बस स्टॉप (इंद्रोड़ा सर्कल) - ~0.8 km",
+            "गांधीनगर सिटी बस स्टैंड (सेक्टर 6) - ~4.0 km",
+            "GSRTC सेंट्रल बस स्टेशन (सेक्टर 11, गांधीनगर) - ~5.5 km",
+            "गुजरात राज्य परिवहन (GSRTC) और निजी बसें (CH 0 / धोलाकुवा स्टॉप पर उपलब्ध; लगभग ~0.8 से 2.0 km)"
+          ],
+          "railway": [
+            "गांधीनगर कैपिटल रेलवे स्टेशन (GNC - सेक्टर 14) - ~6.8 km",
+            "अहमदाबाद जंक्शन (कालूपुर - ADI) - ~21.8 km"
+          ],
+          "airport": [
+            "सरदार वल्लभभाई पटेल अंतरराष्ट्रीय हवाई अड्डा (AMD), अहमदाबाद - ~14.9 km"
+          ],
+          "hotel": [
+            "होटल हिल लुक इन (रांदेसन) - ~3.2 km",
+            "होटल जर्मन गांधीनगर (कुडासन) - ~3.5 km",
+            "होटल रॉयल विंग (कुडासन) - ~3.8 km"
+          ],
+          "restaurant": [
+            "मोचा गांधीनगर (इन्फोसिटी क्लब एंड रिजॉर्ट, इंद्रोड़ा सर्कल के पास) - ~0.4 km",
+            "संकल्प रेस्टोरेंट (इन्फोसिटी) - ~0.6 km",
+            "कंसार गार्डन रेस्टोरेंट (कुडासन) - ~3.2 km"
+          ],
+          "atm": [
+            "सुपर मॉल 1 (इन्फोसिटी सर्कल) में कई बैंकों के ATM - ~1.2 km",
+            "स्टेट बैंक ऑफ इंडिया (SBI) ATM (सेक्टर 8) - ~3.0 km",
+            "स्टेट बैंक ऑफ इंडिया (SBI) ATM (सरगासन) - ~3.5 km"
+          ],
+          "shops": [
+            "सुपर मॉल 1 (इन्फोसिटी सर्कल) - ~1.2 km",
+            "प्रमुख आनंद मॉल (कुडासन) - ~3.2 km",
+            "स्वागत हॉलिडे मॉल (सरगासन) - ~3.6 km"
+          ],
+          "hospital": [
+            "SMVS स्वामीनारायण अस्पताल (रांदेसन) - ~3.5 km",
+            "पगरव अस्पताल और ICU (सरगासन) - ~4.2 km",
+            "भवानी मल्टीस्पेशलिटी अस्पताल (वावोल) - ~6.5 km"
+          ]
+        }
+      }
     },
     {
       "id": 18,
