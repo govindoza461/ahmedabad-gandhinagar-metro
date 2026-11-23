@@ -1546,8 +1546,8 @@
         "coordinates_verified": false
       },
       "photos": {
-        "cover_photo_url": null,
-        "gallery": [],
+        "cover_photo_url": "https://gujarattourism.com/content/dam/gujrattourism/images/religious-sites/akshardham-temple/Akshardham-Temple-Banner.jpg",
+        "gallery": ["https://gujarattourism.com/content/dam/gujrattourism/images/religious-sites/akshardham-temple/Akshardham-Temple-Banner.jpg","https://gujarattourism.com/content/dam/gujrattourism/images/religious-sites/akshardham-temple/gallery/Akshardham-Temple6.jpg","https://gujarattourism.com/content/dam/gujrattourism/images/religious-sites/akshardham-temple/gallery/Akshardham-Temple9.jpg","https://gujarattourism.com/content/dam/gujrattourism/images/religious-sites/akshardham-temple/gallery/Akshardham-Temple10.jpg"],
         "image_credit": null
       },
       "visitor_info": {
@@ -1643,7 +1643,7 @@
         "coordinates_verified": false
       },
       "photos": {
-        "cover_photo_url": null,
+        "cover_photo_url": "https://cdn.s3waas.gov.in/s355b37c5c270e5d84c793e486d798c01d/uploads/2018/10/2018101753-1024x576.jpg",
         "gallery": [],
         "image_credit": null
       },
